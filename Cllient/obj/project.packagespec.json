@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "D:\\Assignment-3-main\\Cllient\\Assignment.csproj",
+    "projectUniqueName": "D:\\github\\assign4\\Cllient\\Assignment.csproj",
     "projectName": "Assignment",
-    "projectPath": "D:\\Assignment-3-main\\Cllient\\Assignment.csproj",
-    "outputPath": "D:\\Assignment-3-main\\Cllient\\obj\\",
+    "projectPath": "D:\\github\\assign4\\Cllient\\Assignment.csproj",
+    "outputPath": "D:\\github\\assign4\\Cllient\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"

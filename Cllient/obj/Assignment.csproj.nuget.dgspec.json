@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Assignment-3-main\\Cllient\\Assignment.csproj": {}
+    "D:\\github\\assign4\\Cllient\\Assignment.csproj": {}
   },
   "projects": {
-    "D:\\Assignment-3-main\\Cllient\\Assignment.csproj": {
+    "D:\\github\\assign4\\Cllient\\Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Assignment-3-main\\Cllient\\Assignment.csproj",
+        "projectUniqueName": "D:\\github\\assign4\\Cllient\\Assignment.csproj",
         "projectName": "Assignment",
-        "projectPath": "D:\\Assignment-3-main\\Cllient\\Assignment.csproj",
+        "projectPath": "D:\\github\\assign4\\Cllient\\Assignment.csproj",
         "packagesPath": "C:\\Users\\yu\\.nuget\\packages\\",
-        "outputPath": "D:\\Assignment-3-main\\Cllient\\obj\\",
+        "outputPath": "D:\\github\\assign4\\Cllient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yu\\AppData\\Roaming\\NuGet\\NuGet.Config",

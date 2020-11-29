@@ -17,7 +17,8 @@ using Microsoft.AspNetCore.Mvc;
             UserService = userService;
         }
         
-        [HttpGet]
+         
+        [HttpPut]
         public IActionResult GetLogin(string username,string password)
         {
             try
@@ -32,7 +33,6 @@ using Microsoft.AspNetCore.Mvc;
                 Console.WriteLine(user.UserName);
                 Console.WriteLine(result.GetAwaiter().GetResult());
                 LoginStatus loginStatus = new LoginStatus();
-                loginStatus.Status = "T";
                 return Ok(loginStatus);
             }
             catch (Exception e)
